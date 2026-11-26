@@ -1,5 +1,6 @@
 #include <ft2build.h>
 #include FT_FREETYPE_H
+#include FT_IMAGE_H
 #include FT_OUTLINE_H
 #include FT_SIZES_H
 #include FT_RENDER_H
@@ -12,3 +13,4 @@
 #include FT_TRIGONOMETRY_H
 #include FT_GASP_H
 #include FT_ADVANCES_H
+#include FT_COLOR_H
